@@ -36,7 +36,7 @@ Model untuk memprediksi nasabah yang akan berlangganan deposito, dengan **ROC-AU
    - Akurasi, ROC AUC
    - Classification Report
 
-7. **Modeling Pipeline** 🧱:
+7. **Modeling Pipeline** :
    - Menggunakan `Pipeline` dari Scikit-learn untuk menyatukan proses:
      - Imputasi missing value
      - Encoding fitur kategorikal
@@ -70,5 +70,5 @@ Machine Learning-Bank Marketing/
 
 ##  Author
 
-Irpan Maulana  
+**Irpan Maulana**  
 GitHub: [@Voldigord](https://github.com/Voldigord)
